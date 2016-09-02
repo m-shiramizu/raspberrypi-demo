@@ -1,0 +1,11 @@
+[sensor]
+pin = 
+interval = 
+shutter_distance = 
+
+[gcs]
+upload_bucket = 
+project_id = 
+upload_file = 
+output_file = 
+
